@@ -1,0 +1,85 @@
+{
+  "planets": [
+    {
+      "id": "terra",
+      "name": "Terra",
+      "temperature": "15 °C",
+      "radius": "6.371 km",
+      "diameter": "12.742 km",
+      "rotation_duration": "23h56min",
+      "sun_distance": "149.600.000 km"
+    },
+    {
+      "id": "mercurio",
+      "name": "Mercúrio",
+      "temperature": "167 °C",
+      "radius": "2.439 km",
+      "diameter": "4.879 km",
+      "rotation_duration": "58 dias 15h30m",
+      "sun_distance": "57.910.000 km"
+    },
+    {
+      "id": "venus",
+      "name": "Vênus",
+      "temperature": "461 °C",
+      "rotation_duration": "243 dias 18h",
+      "radius": "6.051 km",
+      "diameter": "12.104 km",
+      "sun_distance": "108.200.000 km"
+    },
+    {
+      "id": "marte",
+      "name": "Marte",
+      "temperature": "-63 °C",
+      "rotation_duration": "24h37min",
+      "radius": "3.397 km",
+      "diameter": "6.779 km",
+      "sun_distance": "227.940.000 km"
+    },
+    {
+      "id": "jupiter",
+      "name": "Júpiter",
+      "temperature": "-108 °C",
+      "rotation_duration": "9h50min",
+      "radius": "69.911 km",
+      "diameter": "139.820 km",
+      "sun_distance": "778.500.000 km"
+    },
+    {
+      "id": "saturno",
+      "name": "Saturno",
+      "temperature": "-139 °C",
+      "rotation_duration": "10h14min",
+      "radius": "60.268 km",
+      "diameter": "116.464 km",
+      "sun_distance": "1.429.400.000 km"
+    },
+    {
+      "id": "urano",
+      "name": "Urano",
+      "temperature": "-200 °C",
+      "rotation_duration": "10h49min",
+      "radius": "25.362 km",
+      "diameter": "50.724 km",
+      "sun_distance": "2.870.000.000 km"
+    },
+    {
+      "id": "netuno",
+      "name": "Netuno",
+      "temperature": "-218°C",
+      "rotation_duration": "15h40min",
+      "radius": "24.622 km",
+      "diameter": "49.244 km",
+      "sun_distance": "4.504.300.000 km"
+    },
+    {
+      "id": "plutao",
+      "name": "Plutão",
+      "temperature": "Desconhecido",
+      "rotation_duration": "6dias 9h17min",
+      "radius": "1.160 km",
+      "diameter": "2.376 km",
+      "sun_distance": "5.913.520.000 km"
+    }
+  ]
+}
